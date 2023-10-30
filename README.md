@@ -14,5 +14,8 @@ CD Nginx-with-Nodejs-main
 
 docker-compose up -d --build
 
-Open the browser and access http://localhost in the address bar
+Open the browser and access http://localhost in the address bar.
+Reload the page to add more names.
+
+docker-compose down  (Stops containers and removes containers, networks, volumes, and images created)
 ```
