@@ -10,6 +10,8 @@ The return from the node.js application to nginx should be:
 ```
 git clone https://github.com/marcelonespoli/Nginx-with-Nodejs.git
 
+CD Nginx-with-Nodejs-main
+
 docker-compose up -d --build
 
 Open the browser and access http://localhost in the address bar
